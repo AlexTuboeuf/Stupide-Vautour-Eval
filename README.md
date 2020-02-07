@@ -1,2 +1,2 @@
-# Stupide-Vautour-Eval
-Rendu eval
+# Stupide-Vautour-SET
+Stupide Vautour JANUARY
